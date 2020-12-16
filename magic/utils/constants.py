@@ -1,0 +1,1 @@
+WUBRG = ['white', 'blue', 'black', 'red', 'green']
